@@ -1,4 +1,5 @@
-Name
+LEARNING CODING REPOSITORY
+
 OVERVIEW
 Welcome to my GitHub repository! This space is dedicated to my academic pursuits as a student diving into the world of coding and software development.
 DESCRIPTION
